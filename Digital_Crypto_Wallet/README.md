@@ -8,11 +8,11 @@ Two different .py files are:
 
 1.  crypto_wallet.py
 
-![]()
+![](https://github.com/Alexisg324/digital_crypto_wallet/blob/main/Digital_Crypto_Wallet/user_examples/Screen%20Shot%202022-05-31%20at%201.26.47%20AM.png)
 
 2.  fintech_finder.py
 
-![]()
+![](https://github.com/Alexisg324/digital_crypto_wallet/blob/main/Digital_Crypto_Wallet/user_examples/Screen%20Shot%202022-05-31%20at%201.27.01%20AM.png)
 
 ## Installation Guide: 
 
@@ -38,7 +38,9 @@ A new window browser will automatically pop up and the user will then be able to
 
 The following photos are examples of what the user will see: 
 
-![]() 
+![](https://github.com/Alexisg324/digital_crypto_wallet/blob/main/Digital_Crypto_Wallet/user_examples/Screen%20Shot%202022-05-31%20at%202.38.17%20AM.png)
+![](https://github.com/Alexisg324/digital_crypto_wallet/blob/main/Digital_Crypto_Wallet/user_examples/Screen%20Shot%202022-05-31%20at%202.38.32%20AM.png)
+![](https://github.com/Alexisg324/digital_crypto_wallet/blob/main/Digital_Crypto_Wallet/user_examples/Screen%20Shot%202022-05-31%20at%202.38.41%20AM.png)
 
 ## Contributors
 Alexis Rose Garcia Alexisg324@gmail.com https://www.linkedin.com/in/alexis-rose-garcia
